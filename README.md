@@ -4,10 +4,10 @@
 ### Hi there 👋,
 you are in Sk Muktadir's Profile..😄
 
-Skills: C++ / Java
+Skills: C++ / Java / Database
 
-- 🔭 I’m currently working on travel agency project 
-- 🌱 I’m currently learning data structure, database 
+- 🔭 I’m currently working datastructure
+- 🌱 I’m currently learning data structure, algorithm 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Any topic 
 - 😄 Pronouns: yo yo 
