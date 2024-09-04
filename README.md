@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sk Muktadir Hossain</h1>
 <h3 align="center">A Passionate Backend Developer and Data Science Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tprinty/tprinty/master/code.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmuktadir&label=Profile%20views&color=0e75b6&style=flat" alt="skmuktadir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skmuktadir" alt="skmuktadir" /></a> </p>
