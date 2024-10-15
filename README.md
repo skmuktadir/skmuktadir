@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sk Muktadir Hossain </h1> 
+<h1 align="center">Hi 👋, I'm Sk Muktadir Hossain</h1> 
 <h3 align="center">A Passionate Backend Developer and Data Science Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmuktadir&label=Profile%20views&color=0e75b6&style=flat" alt="skmuktadir" /> </p>
 
