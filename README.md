@@ -10,7 +10,29 @@
 
 - 👯 I’m looking to collaborate on [Machine-Learning-Project-CNN_leukemia](https://github.com/skmuktadir/Research)
 
-- 🤝 I’m looking for help with **Fine-Tuning wav2vec 2.0 TBA: Bangla Speech to Text Conversion with OpenSLR and Self-compiled Datasets**
+## 🧪 Current Research Work
+
+In my ongoing research journey, I have been exploring and contributing to various challenging projects:
+
+### 1. Enhancing Bangla Local Speech-to-Text Conversion
+- **Description:** Using Fine-Tuning wav2vec 2.0 with OpenSLR and Self-compiled Datasets through Transfer Learning  
+- **Collaborators:** Pritam Khan (AIUB), Dipta Gomez  
+
+### 2. An Enhanced Model for Bengali Dialect Speech-to-Text System
+- **Description:** Developing a robust model for dialect-specific speech recognition in Bengali.  
+- **Collaborators:** Dr. Muhammad Firoz Mridha, Dipta Gomez, Md. Khairul Alam Mazumder, Rahul Biswas  
+
+### 3. Performance Analysis Model for Brain Tumor Detection
+- **Description:** Analyzing and improving model performance for brain tumor detection using advanced techniques.  
+- **Collaborators:** Dr. Muhammad Firoz Mridha, Dipta Gomez, Md. Khairul Alam Mazumder  
+
+### 4. Movie Plot Building and Analysis
+- **Description:** Designing systems for movie plot generation and analysis using NLP and Machine Learning.  
+- **Collaborator:** Dr. Debajyoti Karmaker  
+
+### 5. Optimizing Image Processing with a Proposed Model and Enhanced Loss Function
+- **Description:** Proposing a novel image processing model optimized with advanced loss functions.  
+- **Collaborator:** Dr. Debajyoti Karmaker  
 
 - 👨‍💻 All of my projects are available at [https://github.com/skmuktadir?tab=repositories](https://github.com/skmuktadir?tab=repositories)
 
