@@ -35,7 +35,7 @@ In my ongoing research journey, I have been exploring and contributing to variou
 - **Collaborator:** Dr. Debajyoti Karmaker
   
 
-- 👨‍💻 All of my projects are available at [https://github.com/skmuktadir?tab=repositories](https://github.com/skmuktadir?tab=repositories)
+- **👨‍💻 All of my projects are available at [https://github.com/skmuktadir?tab=repositories](https://github.com/skmuktadir?tab=repositories)
 
 - 📝 I regularly write articles on [https://skmuktadir.blogspot.com](https://skmuktadir.blogspot.com)
 
