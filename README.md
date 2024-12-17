@@ -32,7 +32,8 @@ In my ongoing research journey, I have been exploring and contributing to variou
 
 ### 5. Optimizing Image Processing with a Proposed Model and Enhanced Loss Function
 - **Description:** Proposing a novel image processing model optimized with advanced loss functions.  
-- **Collaborator:** Dr. Debajyoti Karmaker  
+- **Collaborator:** Dr. Debajyoti Karmaker
+  
 
 - 👨‍💻 All of my projects are available at [https://github.com/skmuktadir?tab=repositories](https://github.com/skmuktadir?tab=repositories)
 
