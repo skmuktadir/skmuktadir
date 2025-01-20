@@ -79,5 +79,5 @@ In my ongoing research journey, I have been exploring and contributing to variou
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skmuktadir&show_icons=true&locale=en" alt="skmuktadir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skmuktadir&" alt="skmuktadir" /></p>
-![Uploading image.png…]()
+
 )
